@@ -13,3 +13,6 @@ AS you can see I've chosen ***Netlify*** over other free website hosters for the
 ## 3) Up to 100GB of bandwidth per month for free
 
 
+## 4) Really suitable for static websites (not dynamic) like the provided dashboard
+
+
